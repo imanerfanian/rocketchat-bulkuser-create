@@ -3,7 +3,7 @@ This python script let you create bulk user using rocketchat Rest API.
 
 
 Step 1)  You have to get your User ID and Auth Token from your rocketchat instance. to do that, you need to get admin privilege acces in rocketchat. 
-after that, you go to Progile >> Personal Access Tokens >> Add 
+after that, you go to Profile >> Personal Access Tokens >> Add 
 
 the output should be like this image below:
 

@@ -12,7 +12,7 @@ the output should be like this image below:
 IMPORTANT! > DO NOT SAVE THIS INFO ON ROCKETCHAT SAVE MESSAGE OR ANY OTHER UNTRUSTED PLACES! ATTACKERS WITH THIS INFO CAN EASILY ACCESS YOUR ROCKETCHAT INFORMATION. 
 
 
-Step 2) Replace your rocketchat URL and Token and User ID in the placeholders in python script. the naming is obvious. if you are here, you know where you should put it.
+Step 2) Replace your rocketchat URL and Token and User ID in the placeholders in python script. the naming is obvious. if you are here, you know where you should put it. also replace you email address in the code to. or the email address of the users will be @yourdomain.com !
 
 Step 3) Place the username of the users in username.txt file and their Full name in names.txt file. 
 
